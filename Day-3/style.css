@@ -16,6 +16,7 @@ body{
 
 .col{
     width: 100%;
+    background-color: rgb(255, 173, 143);
 }
 
 .col-1{
@@ -40,4 +41,16 @@ body{
 
 .col-6{
     width: 16.66%;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+[class*="col"] {
+     padding: 10px;
 }

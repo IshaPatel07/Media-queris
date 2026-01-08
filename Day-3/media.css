@@ -1,5 +1,33 @@
+@media (min-width:576px) {
+    .col{
+        width: 50%;
+        background-color: aqua;
+    }
+}
+@media (min-width:768px) {
+    .col{
+        width: 33.33%;
+        background-color: bisque;
+    }
+}
+
+@media (min-width:992px) {
+    .col{
+        width: 25%;
+        background-color: rgb(111, 111, 143);
+    }
+}
+
+@media (min-width:1200px) {
+    .col{
+        width: 20%;
+        background-color: rgb(230, 142, 142);
+    }
+}
+
 @media (min-width:1400px) {
     .col{
-        
+        width: 16.66%;
+        background-color: rgb(249, 109, 132);
     }
 }
