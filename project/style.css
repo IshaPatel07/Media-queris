@@ -84,11 +84,22 @@ p{
     font-size: 20px;
     text-align: center;
 }
- .photo-2{ 
+ /* .photo-2{ 
     
-}
+} */
 
 .line-hight{
     line-height: 1.6;
 }
 
+.section-3{
+    background-color: rgb(30, 30, 46);
+}
+
+.box{
+    height: 400px;
+    width: 70%;
+    background-color: rgb(57, 57, 69);
+    margin: 10px;
+    border-radius: 15px;
+}
