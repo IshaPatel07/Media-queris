@@ -95,9 +95,7 @@ p{
     font-size: 20px;
     text-align: center;
 }
- /* .photo-2{ 
-    
-} */
+
 
 .line-hight{
     line-height: 1.6;
@@ -123,10 +121,5 @@ p{
 .foot{
     width: 80%;
     background-color: rgb(57, 57, 69);
-     border-radius: 15px;
+    border-radius: 15px;
 }
-
-/* .foot-img{
-    background-size: contain;
-} */
- 
